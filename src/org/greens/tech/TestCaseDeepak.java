@@ -2,6 +2,7 @@ package org.greens.tech;
 
 public class TestCaseDeepak {
 	public void sampleInfo() {
+		
 	System.out.println("Deepak Test Case");
 
 }
