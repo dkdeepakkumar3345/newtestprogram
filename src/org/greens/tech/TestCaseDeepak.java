@@ -1,13 +1,8 @@
 package org.greens.tech;
 
 public class TestCaseDeepak {
-	public void sampleInfo() {
-		
-	System.out.println("Deepak Test Case");
-
-}
-	public static void main(String[] args) {
-		TestCaseDeepak deep = new TestCaseDeepak();
-		deep.sampleInfo();
-	}
+	
+		public static void main(String[] args) {
+			System.out.println("deepak testcase");
+		}
 }
